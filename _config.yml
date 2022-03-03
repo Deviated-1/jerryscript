@@ -2,3 +2,5 @@
 title: JerryScript Engine
 description: JerryScript is a very lightweight JavaScript engine with capability to run on microcontrollers with less than 8KB of RAM.
 # baseurl: "/jerryscript" # the subpath of your site, e.g. /blog/
+
+theme: jekyll-theme-architect
